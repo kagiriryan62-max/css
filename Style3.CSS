@@ -1,0 +1,38 @@
+body{
+    background-color: aquamarine;
+}
+#par1{
+    background-color: antiquewhite;
+    color: black;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#par2{
+    background-color: bisque;
+    color: blue;
+    font-size: 23px;
+    padding: 10px;
+    text-align: end;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+#par3{
+    background-color: chocolate;
+    font-size: 25px;
+    color: blueviolet;
+    text-transform: capitalize;
+    text-decoration: overline;
+    padding: 15px;
+
+}
+.myparagraph{
+    color: crimson;
+    background-color: black;
+    font-size: 24px;
+}
+.uwu{
+    color: aliceblue;
+    background-color: burlywood;
+    font-size: 20px;
+    text-decoration: underline;
+}
