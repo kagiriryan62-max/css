@@ -1,0 +1,29 @@
+#Black{
+    height: 200px;
+    background-color: black;
+}
+#White{
+    height: 20px;
+    background-color: white;
+}
+#Red{
+    height: 200px;
+    background-color: red;
+}
+#White{
+    height: 20px;
+    background-color: white;
+}
+#Green{
+    height: 200px;
+    background-color: green;
+}
+#shield {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 500px;
+    size-adjust: 100%;
+}
